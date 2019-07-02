@@ -1,0 +1,30 @@
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link rel="shortcut icon" href="Untitled.png" type="image/x-icon" />
+<style>
+body{
+background-image: url('roflemoji.png');
+font-family: 'Lobster', bold;
+}
+</style>
+<title>XTRAX101</title>
+</head>
+<img src="XTAX101logo.png">
+<body>
+Hi guys, here is my website made by XTRAX101 
+(those of you who know my real name, dont tell anyone). So this website is updated
+regularly and is a website that you can go to if you need a laugh. As well as this, we also do recent news, 
+videos and MORE!!!
+<button onclick="javascript:alert('Share this website with your friends!')">XTRAXbutton</button>
+<h1>MEMES</h1>
+<img src="paper.jpg"> 
+<img src="old.png"> 
+<img src="late.jpg"> 
+<h2>VIDEOS</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ne1fvsVDim0?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bFzsc2iS_SQ?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ej2OyulpDEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32mUJJnoS-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
